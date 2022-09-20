@@ -1,7 +1,6 @@
 # 09 Node.js Challenge: Professional README Generator
 
 
-![image](https://user-images.githubusercontent.com/109123352/191140715-d0eb292a-d80e-44d0-91a5-edd57abc7f95.png)
 
 
 
